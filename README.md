@@ -1,4 +1,5 @@
 ### Hi there 👋
+Now I am a final year student of informatics engineering, have an interest in developing multi-platform mobile applications using Flutter to solve problems and become useful innovations. For now I'm learning about Cyber Security Analyst.
 
 <!--
 **fanolans/fanolans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
