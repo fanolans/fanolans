@@ -6,7 +6,7 @@
 - 📝 Let's have a look and read some of my articles: https://medium.com/@fanolans
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fanolans/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@fanolans) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fanolans/)
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
