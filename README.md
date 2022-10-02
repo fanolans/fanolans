@@ -5,10 +5,8 @@
 
 - 📝 Let's have a look and read some of my articles: https://medium.com/@fanolans
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fanolans/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fanolans/" height="30" width="40" /></a>
-</p>
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fanolans/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@fanolans) 
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
@@ -38,13 +36,13 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
-<h1 align="center">Github Stats ⚡</h1>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=fanolans&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=fanolans&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fanolans&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<h4 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fanolans&show_icons=true&locale=en&layout=compact" alt="fanolans" /></h4>
-<h4 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fanolans&show_icons=true&locale=en" alt="fanolans" /></h4>
-<h4 align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fanolans&" alt="fanolans" /></h4>
-
-
+---
+[![](https://visitcount.itsvg.in/api?id=fanolans&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <!--
