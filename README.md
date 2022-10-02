@@ -41,7 +41,8 @@
 <h1 align="center">Github Stats ⚡</h1>
 
 <h4 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fanolans&show_icons=true&locale=en&layout=compact" alt="fanolans" /></h4>
-<h4><img align="center" src="https://github-readme-stats.vercel.app/api?username=fanolans&show_icons=true&locale=en" alt="fanolans" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fanolans&" alt="fanolans" /></h4>
+<h4 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fanolans&show_icons=true&locale=en" alt="fanolans" /></h4>
+<h4 align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fanolans&" alt="fanolans" /></h4>
 
 
 
