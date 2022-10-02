@@ -36,14 +36,14 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fanolans&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fanolans&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fanolans&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<h2 align="center">📊 GitHub Stats:</h2>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fanolans&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="fanolans" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fanolans&theme=react&hide_border=true" alt="fanolans" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanolans&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=fanolans&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<p align="center"><a href="https://visitcount.itsvg.in" target="_blank" rel="noreferrer"> <img align="center" src="https://visitcount.itsvg.in/api?id=fanolans&icon=0&color=1" /> </a>
+</p>
 
 <!--
 ### Hi there 👋
