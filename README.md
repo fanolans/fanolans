@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farrel Nolan</h1>
-<h4 align="center">Now I am a final year student of informatics engineering, have an interest in developing multi-platform mobile applications using Flutter to solve problems and become useful innovations. For now I'm learning about Cyber Security Analyst.</h4>
+<h4 align="center">Now I am a final year student of informatics engineering, have an interest in developing multi-platform mobile applications using Flutter to solve problems and become useful innovations.</h4>
 
 - 🌱 I’m currently learning **Flutter & Laravel**
 
