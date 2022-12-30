@@ -34,9 +34,12 @@
 </p>
 
 <h2 align="center">📊 GitHub Stats:</h2>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fanolans&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="fanolans" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fanolans&theme=react&show_icons=true&hide_border=true&count_private=true" alt="fanolans" /></p>
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fanolans&theme=react&hide_border=true" alt="fanolans" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanolans&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanolans&theme=react&show_icons=true&hide_border=true&layout=compact" /></p>
+
 
 ---
 <p align="center"><a href="https://visitcount.itsvg.in" target="_blank" rel="noreferrer"> <img align="center" src="https://visitcount.itsvg.in/api?id=fanolans&icon=0&color=1" /> </a>
