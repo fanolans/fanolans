@@ -42,8 +42,7 @@
 
 
 ---
-<p align="center"><a href="https://visitcount.itsvg.in" target="_blank" rel="noreferrer"> <img align="center" src="https://visitcount.itsvg.in/api?id=fanolans&icon=0&color=1" /> </a>
-</p>
+
 
 <!--
 ### Hi there 👋
