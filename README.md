@@ -8,7 +8,7 @@
 - Let's Connect: https://www.linkedin.com/in/fanolans
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fanolans/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fanolans/)
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
