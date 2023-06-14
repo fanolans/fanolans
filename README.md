@@ -5,6 +5,8 @@
 
 - 📝 Let's have a look and read some of my articles: https://medium.com/@fanolans
 
+- Let's Connect: https://www.linkedin.com/in/fanolans
+
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fanolans/)
 
