@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Farrel Nolan</h1>
 <h4 align="center">Now I am a final year student of informatics engineering, have an interest in developing multi-platform mobile applications using Flutter to solve problems and become useful innovations.</h4>
 
-- 🌱 I’m currently learning **Flutter & Laravel**
+- 🌱 I’m currently learning **Flutter & Springboot**
 
 - 📝 Let's have a look and read some of my articles: https://medium.com/@fanolans
 
@@ -13,6 +13,7 @@
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+<a href="https://www.java.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 </p>
 
