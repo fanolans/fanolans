@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farrel Nolan</h1>
-<h4 align="center">Now I am a final year student of informatics engineering, have an interest in developing multi-platform mobile applications using Flutter to solve problems and become useful innovations.</h4>
+<h4 align="center">Tech-savvy, detail-oriented, and looking for career opportunities in mobile development. I am experienced in Flutter mobile development which has attracted my interest in this field.</h4>
 
 - 🌱 I’m currently learning **Flutter & Springboot**
 
