@@ -4,10 +4,9 @@
 - 🌱 I’m currently learning **Flutter & Springboot**
 
 - 📝 Let's have a look and read some of my articles: https://medium.com/@fanolans
+  
 
-- Let's Connect: https://www.linkedin.com/in/fanolans
-
-### Connect with me:
+### Let's Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fanolans/)
 
 <h3 align="left">Programming Languages:</h3>
