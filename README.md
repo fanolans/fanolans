@@ -1,13 +1,11 @@
+<img src="https://github.com/fanolans/fanolans/assets/85090127/a8333fb0-aa8a-42e7-9fec-8d0b278e88b2">
+
 <h1 align="center">Hi 👋, I'm Farrel Nolan</h1>
 <h4 align="center">Tech-savvy, detail-oriented, and looking for career opportunities in mobile development. I am experienced in Flutter mobile development which has attracted my interest in this field.</h4>
 
 - 🌱 I’m currently learning **Flutter & Springboot**
 
 - 📝 Let's have a look and read some of my articles: https://medium.com/@fanolans
-  
-
-### Let's Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fanolans/)
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
@@ -56,4 +54,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Let's Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fanolans/)
 -->
