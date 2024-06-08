@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Flutter & Springboot**
 
-- 📝 Let's have a look and read some of my articles: https://medium.com/@fanolans
+- 📝 Let's have a look and read some of my articles: [My Medium](https://medium.com/@fanolans)  
 
-- 📱 Discover my app on Play Store, download now! https://bit.ly/fanosbyte
+- 🔭 Discover my app on Play Store, download now! [My Play Store](https://bit.ly/fanosbyte) 
 
 
 <h2 align="center">📊 GitHub Stats:</h2>
